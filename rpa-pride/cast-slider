@@ -87,11 +87,6 @@ body {
     center top/cover;
 }
 
-.slide:nth-child(10) {
-  background: url("10.jpg") no-repeat
-    center top/cover;
-}
-
 @media (min-width: 640px) and (min-height: 640px) {
   .slide .content {
     bottom: 70px;
